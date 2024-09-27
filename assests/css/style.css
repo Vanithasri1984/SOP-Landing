@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: poppins;
+    box-sizing: border-box;
+
+}
+.banner-img {
+    height: 400px !important;
+   width: 1200px !important;
+}
+.background-clip {
+    height: 500px !important;
+    width: ;
+}
+.space-section {
+    margin: 40px;
+}
+.who-we-are-text {
+    text-align: justify;
+}
+.core-value-img {
+    width: 180px;
+}
+.our-services-content {
+    text-align: justify;
+}
+.indicator-image {
+    width: auto;
+    height: 200px !important;
+}
+.contact-us-img {
+    background-image: url('/assests/image/contact-us.jfif');       
+     background-repeat: no-repeat;
+     background-size: 100% 90%;   
+     position: relative;
+     width: 100%;     
+ 
+}
+.get-in-touch-text {
+    padding-top: 100px;
+    font-size: 25px;
+    margin: 50px;
+    color: #fff;
+    
+
+}
+.whatsapp{
+	position: fixed;
+	bottom: 40px;
+	Right:105px;
+}
+.footer {
+    background-color: rgba(30, 110, 202, 0.747);
+    padding-left: 100px;
+}
+  
+ 
